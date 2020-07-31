@@ -1,0 +1,2 @@
+# node-cp
+ advanced `cp`
